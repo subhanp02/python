@@ -14,3 +14,6 @@
 
 # UNDO FILES DATA
     git checkout <files_name>
+
+    # all files data undo
+    git checkout -f 
