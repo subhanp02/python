@@ -34,3 +34,4 @@
     git branch - shows your current branch
     git branch feature1 -  create branch
     git checkout feature1 - swith to checkout feature1 
+    git merge feature1 - all changes paste in master branch
