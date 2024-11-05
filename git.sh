@@ -23,3 +23,7 @@
     git log -p -1 
 
     git diff --staged
+
+# cashed command
+    git rm <file_name>  - will be  delete file working directory 
+    git rm --cashed <file_name> - untracked file 
