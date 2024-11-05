@@ -9,4 +9,5 @@
 # CHECK STATUS
     git status 
     git add index.html 
-    git commit - git commit -m "added more htmls"
+    git commit - initial commit 
+    git commit -m "added more htmls"
