@@ -17,3 +17,7 @@
 
     # all files data undo
     git checkout -f 
+
+# GIT LOG 
+    git log 
+    git log -p -1
