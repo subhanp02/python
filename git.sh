@@ -11,3 +11,6 @@
     git add index.html 
     git commit - initial commit 
     git commit -m "added more htmls"
+
+# UNDO FILES DATA
+    git checkout <files_name>
